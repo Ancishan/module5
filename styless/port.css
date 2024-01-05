@@ -16,6 +16,7 @@ nav{
     display: flex;
      justify-content: space-between; 
     align-items: center;
+    margin:0 200px ;
 }
 nav > ul{
     display: flex;
@@ -34,3 +35,15 @@ nav li{
     font-weight: 700;
     padding: 15px 35px;
  } 
+ .headerr{
+     background-color: var(--White-Color, #be9595);  
+ }
+ .banner{
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+    display: flex;
+    align-items: center;
+ }
+.profile{
+    
+}
